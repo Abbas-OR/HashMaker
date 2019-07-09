@@ -1,6 +1,12 @@
 # Hash Maker
 
-#Hash Maker Version 3.0 
+# NEW Update
+
+Fix bugs 
+
+NEW Version 4.0
+
+# Hash Maker Version 4.0 
 
 OPTIONS
 
