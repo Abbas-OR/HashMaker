@@ -2,6 +2,8 @@
 
 #Hash Maker Version 3.0 
 
+OPTIONS
+
 1-MD5
 
 2-SHA1
@@ -17,3 +19,17 @@
 CREATOR: ORTEAM
 
 Telegram Channel T.me/GagetOR
+
+# HELP
+
+open Terminal
+
+cd Desktop\HashMaker-master
+
+HashMaker
+
+set Password 
+
+set OPTIONS
+
+oky your hash password :)
