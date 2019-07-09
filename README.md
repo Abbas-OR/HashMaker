@@ -1,4 +1,4 @@
-# HashMaker
+# Hash Maker
 
 #Hash Maker Version 3.0 
 
