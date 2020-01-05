@@ -2,11 +2,11 @@
 
 # NEW Update
 
-Fix bugs 
+Code optimization
 
-NEW Version 4.0
+NEW Version 4.5
 
-# Hash Maker Version 4.0 
+# Hash Maker Version 4.5
 
 OPTIONS
 
@@ -24,13 +24,13 @@ OPTIONS
 
 CREATOR: ORTEAM
 
-Telegram Channel T.me/GagetOR
+Telegram Channel T.me/fcos_iety
 
-# HELP
+# PC-HELP
 
 open Terminal
 
-cd Desktop\HashMaker-master
+cd Directory\HashMaker-master
 
 HashMaker
 
@@ -38,4 +38,19 @@ set Password
 
 set OPTIONS
 
-oky your hash password :)
+oky your password is hash :)
+
+# LINUX-HELP
+
+open Terminal
+
+cd Directory\HashMaker-master
+
+python3 Hash-Maker.py
+
+set Password 
+
+set OPTIONS
+
+oky your password is hash :)
+

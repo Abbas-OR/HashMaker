@@ -4,7 +4,7 @@ color a
 
 cls
 
-python Hash-Maker-ORTEAM.py
+python Hash-Maker.py
 
 :a
 
@@ -12,6 +12,6 @@ python Hash-Maker-ORTEAM.py
 
 color a
 
-python Hash-Maker-ORTEAM.py
+python Hash-Maker.py
  
 goto a
