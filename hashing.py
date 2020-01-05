@@ -23,7 +23,7 @@ class hashing:
 	|""",md5.hexdigest(),"""  |
 	|<=================================>>|
 	|CREATOR: ORTEAM                     |
-	|My Telegram Channel :	T.me/fsoc_iety |
+	|My Telegram Channel  T.me/fsoc_iety |
 	|------------------------------------|
 """)
         elif model == "2":
@@ -35,7 +35,7 @@ class hashing:
 	|""",sha1.hexdigest(),"""|
 	|<=======================================>>|
 	|CREATOR: ORTEAM                           |
-	|My Telegram Channel :	T.me/fsoc_iety       |
+	|My Telegram Channel  T.me/fsoc_iety       |
 	|------------------------------------------|
 """)
         elif model == "3":
@@ -47,7 +47,7 @@ class hashing:
 	|""",sha224.hexdigest(),"""|
 	|<=======================================================>>|
 	|CREATOR: ORTEAM                                           |
-	|My Telegram Channel :	T.me/fsoc_iety                       |
+	|My Telegram Channel  T.me/fsoc_iety                       |
 	|----------------------------------------------------------|
 """)
         elif model == "4":
@@ -59,7 +59,7 @@ class hashing:
 	|""",sha256.hexdigest(),"""|
 	|<===============================================================>>|
 	|CREATOR: ORTEAM                                                   |
-	|My Telegram Channel :	T.me/fsoc_iety                               |
+	|My Telegram Channel  T.me/fsoc_iety                               |
 	|------------------------------------------------------------------|
 """)
         elif model == "5":
@@ -71,7 +71,7 @@ class hashing:
 	|""",sha384.hexdigest(),"""|
 	|<===============================================================================================>>|
 	|CREATOR: ORTEAM                                                                                   |
-	|My Telegram Channel :	T.me/fsoc_iety                                                               |
+	|My Telegram Channel  T.me/fsoc_iety                                                               |
 	|--------------------------------------------------------------------------------------------------|
 """)
         elif model == "6":
@@ -83,6 +83,6 @@ class hashing:
 	|""",sha512.hexdigest(),"""|
 	|<===============================================================================================================================>>|
 	|CREATOR: ORTEAM                                                                                                                   |
-	|My Telegram Channel :	T.me/fsoc_iety                                                                                               |
+	|My Telegram Channel  T.me/fsoc_iety                                                                                               |
 	|----------------------------------------------------------------------------------------------------------------------------------|
 """)
