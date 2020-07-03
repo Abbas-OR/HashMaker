@@ -56,7 +56,7 @@ oky your password is hash :)
 
 >>> oky your password is hash :)
 
-#Password Generator
+# Password Generator
 
 >>> set OPTIONS is 7
 >>> oky wait make password
