@@ -1,11 +1,6 @@
 import hashlib
-import os
-import re
-import requests
-import time
 import random
-import sys
-
+from time import sleep
 class hashing:
 
     def __init__(self, password, model):
@@ -85,4 +80,22 @@ class hashing:
 	|CREATOR: ORTEAM                                                                                                                   |
 	|My Telegram Channel  T.me/fsoc_iety                                                                                               |
 	|----------------------------------------------------------------------------------------------------------------------------------|
+""")
+class psgn:
+    def psswod():
+        sm = "abcdefghijklmnopqrstuvwxyz"
+        bi = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        num = "0123456789"
+        sl = "[]{}()*@#;:,_-$%&^!><./"
+        
+        alls = sm + bi + num + sl
+        l = 16
+        passwd = "".join(random.sample(alls, l))
+        print(">>> Please Wait Create Your Password")
+        sleep(1)
+        print("""
+	 >>> """,passwd,"""
+        <<=======================================>>
+	 >>> CREATOR: ORTEAM
+	 >>> My Telegram Channel  T.me/fsoc_iety
 """)

@@ -1,56 +1,63 @@
-# Hash Maker
-
 # NEW Update
 
-Code optimization
+>>> Code Optimization
+>>> Adds Password Generator
+>>> NEW Version 5.0
 
-NEW Version 4.5
+# Hash Maker Version 5.0
 
-# Hash Maker Version 4.5
+>>> OPTIONS
 
-OPTIONS
+>>> 1-MD5
 
-1-MD5
+>>> 2-SHA1
 
-2-SHA1
+>>> 3-SHA224
 
-3-SHA224
+>>> 4-SHA256
 
-4-SHA256
+>>> 5-SHA384
 
-5-SHA384
+>>> 6-SHA512
 
-6-SHA512
+>>> 7- Password Generator
 
-CREATOR: ORTEAM
+>>> CREATOR: ORTEAM
 
-Telegram Channel T.me/fcos_iety
+>>> Telegram Channel T.me/fcos_iety
 
 # PC-HELP
 
-open Terminal
+>>> open Terminal
 
-cd Directory\HashMaker-master
+>>> cd Directory\HashMaker-master
 
-HashMaker
+>>> python HashMaker.py
 
-set Password 
+>>> set OPTIONS
 
-set OPTIONS
+>>> set Password 
+
 
 oky your password is hash :)
 
 # LINUX-HELP
 
-open Terminal
+>>> open Terminal
 
-cd Directory\HashMaker-master
+>>> cd Directory\HashMaker-master
 
-python3 Hash-Maker.py
+>>> python3 Hash-Maker.py
 
-set Password 
+>>> set OPTIONS
 
-set OPTIONS
+>>> set Password 
 
-oky your password is hash :)
 
+>>> oky your password is hash :)
+
+#Password Generator
+
+>>> set OPTIONS is 7
+>>> oky wait make password
+>>> goods make your password ;)
