@@ -61,5 +61,7 @@ oky your password is hash :)
 # Password Generator
 
  set OPTIONS is 7
+ 
  oky wait make password
+ 
  goods make your password ;)
