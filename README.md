@@ -2,7 +2,7 @@
 
 Code Optimization
 
-Adds Password Generator
+Add a Password Generator
 
 Version 5.0
 
