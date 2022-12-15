@@ -44,6 +44,8 @@ Version 5.0
 
 >open Terminal
 
+>git clone https://github.com/Abbas-OR/HashMaker.git
+
 >cd HashMaker-master
 
 >python3 Hash-Maker.py
