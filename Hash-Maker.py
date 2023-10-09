@@ -53,6 +53,5 @@ while True:
                 sleep(1)
                 maker()
         except KeyboardInterrupt:
-                print("")
-                print(">>> Exit Hash Maker....")
+                print("\n >>> Exit Hash Maker....")
                 sys.exit()
